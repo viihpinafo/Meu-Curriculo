@@ -4,7 +4,7 @@ body, html, *{
 
 body {
     padding: 10px;
-    background-color: #a2a2d8;
+    background-color: #f9fcf9;
     color: rgb(0, 0, 0);
 }
 
@@ -12,7 +12,7 @@ body {
 #nome {
     text-align: center;
     color:brown;
-    border-bottom: 5px solid rgb(76, 231, 218);
+    border-bottom: 5px solid rgb(157, 240, 233);
     padding-bottom: 10px;
     font-weight: bolder;
 }
@@ -31,13 +31,19 @@ nav ul {
 }
 
 nav ul li {
-    background-color: #a9d2fc;
-    padding: 10px 15px;
+    background-color: rgb(135, 206, 206);
+    padding: 20px 15px;
 }
 
 nav ul li a {
     text-decoration: none;
-    color: #b91010;
+    color: #bb0b0b;
+    font-weight: bold;
+}
+
+nav ul li p1 {
+    text-decoration: none;
+    color: #bb0b0b;
     font-weight: bold;
 }
 
